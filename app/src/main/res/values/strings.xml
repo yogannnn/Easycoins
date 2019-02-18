@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Easycoins</string>
+    <string name="urlSite">https://easycoins.ml</string>
+    <string name="userNameOnDisplay">userNameOnDisplay</string>
+</resources>
